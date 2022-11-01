@@ -1,8 +1,13 @@
+body{
+    background-color: hsl(30, 38%, 92%);
+}
+
+
 .item {
     display: flex;
     justify-content: center;
     margin-top: 5rem;
-    background-color: hsl(30, 38%, 92%);
+   
     margin-left: 6rem;
     margin-right: 6rem;
     padding-top: 4rem;
@@ -18,7 +23,7 @@
 }
 
 .item-2 {
-    line-height: 0.6rem;
+    line-height: 0.7rem;
     font-size: 14px;
     font-size: 1rem;
 color: hsl(228, 12%, 48%);
@@ -36,6 +41,8 @@ font-weight: 700;
     color: white;
     border-radius: 0.6rem;
     font-size: 1.1rem;
+    display: flex;
+    align-content: baseline;
 
 }
 
@@ -48,12 +55,13 @@ img {
     word-spacing: 0.5rem;
     color: hsl(228, 12%, 48%);
     font-weight: 700;
+    padding-top:1rem;
 }
 
 h1 {
     font-weight: 700;
     font-size: 2rem;
-    line-height: 0.8rem;
+    line-height: 0.9rem;
 }
 
 sup{
