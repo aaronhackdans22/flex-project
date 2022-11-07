@@ -82,8 +82,8 @@ sup {
     }
 
     img{
-        width: 358px;
-        height: 300px;
+      max-width: 96vw;
+       max-height: 100vw;
         border-top-right-radius: 00.5rem;
         border-bottom-left-radius: 0;
 
