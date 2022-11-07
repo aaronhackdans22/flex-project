@@ -1,4 +1,4 @@
-body{
+body {
     background-color: hsl(30, 38%, 92%);
 }
 
@@ -7,7 +7,7 @@ body{
     display: flex;
     justify-content: center;
     margin-top: 5rem;
-   
+
     margin-left: 6rem;
     margin-right: 6rem;
     padding-top: 4rem;
@@ -18,7 +18,7 @@ body{
     padding-left: 3rem;
     background-color: hsl(0, 0%, 100%);
     padding-right: 2rem;
-    border-bottom-right-radius:0.5rem ;
+    border-bottom-right-radius: 0.5rem;
     border-top-right-radius: 0.5rem;
 }
 
@@ -26,8 +26,8 @@ body{
     line-height: 0.7rem;
     font-size: 14px;
     font-size: 1rem;
-color: hsl(228, 12%, 48%);
-font-weight: 700;
+    color: hsl(228, 12%, 48%);
+    font-weight: 700;
 }
 
 .butt {
@@ -55,7 +55,7 @@ img {
     word-spacing: 0.5rem;
     color: hsl(228, 12%, 48%);
     font-weight: 700;
-    padding-top:1rem;
+    padding-top: 1rem;
 }
 
 h1 {
@@ -64,13 +64,13 @@ h1 {
     line-height: 1rem;
 }
 
-sup{
+sup {
     text-decoration: line-through;
     color: hsl(228, 12%, 48%);
     font-size: 1rem;
 }
 
-.super{
-    color:  hsl(158, 36%, 37%);
+.super {
+    color: hsl(158, 36%, 37%);
     font-size: xx-large;
 }
