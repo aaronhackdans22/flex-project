@@ -74,3 +74,27 @@ sup {
     color: hsl(158, 36%, 37%);
     font-size: xx-large;
 }
+
+@media only screen and (max-width: 375px){
+    .item{
+        display: block;
+        margin: 0;
+    }
+
+    img{
+        width: 358px;
+        height: 300px;
+        border-top-right-radius: 00.5rem;
+        border-bottom-left-radius: 0;
+
+    }.butt{
+        padding-left:3rem ;
+        padding-right:3rem ;
+        
+    }
+    .item-1{
+        margin-top: -1.3rem;
+        border-top-right-radius: 0;
+        padding-bottom: 1rem;
+    }
+}
